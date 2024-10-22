@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vzomerid.github.io/vzomerid.vzomerid
+Sitemap: https://vzomerid.github.io/app/vzomerid.vzomerid
+Sitemap: https://vzomerid.github.io/assets/vzomerid.vzomerid
+Sitemap: https://vzomerid.github.io/css/vzomerid.vzomerid
+Sitemap: https://vzomerid.github.io/includes/vzomerid.vzomerid
+Sitemap: https://vzomerid.github.io/item/vzomerid.vzomerid
+Sitemap: https://vzomerid.github.io/src/vzomerid.vzomerid
